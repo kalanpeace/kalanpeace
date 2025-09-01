@@ -1,4 +1,4 @@
-Building the next way to shop
+Discovering the next way to shop
 • <a href="./caeliai">Caeliai repo</a>  
 • Blog — https://kalanpeace.com  
 • LinkedIn — https://linkedin.com/in/kalanpeace  
