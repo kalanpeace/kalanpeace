@@ -1,19 +1,19 @@
 # Kalan Peace
 
-**Understanding how AI agents will reshape e-commerce.**
+AI engineer. I worked on the Search & Personalization team at [Daydream](https://daydream.ing/). I'm the founder of [Caeliai](https://caeliai.com/), an AEO agency for ecommerce companies, and I publish AEO and ecommerce research.
 
-I research how AI agents help people discover products, compare options, and choose where to shop. At [Caeliai](https://caeliai.com), I study saved ChatGPT shopping answers: which brands appear, how products are shown, and where links lead.
+## ArchiveAgent
 
-## Public data: Shopping Answers
+**[ArchiveAgent](https://github.com/kalanpeace/archiveagent)** is my current project. **Theia**, a fine-tuned Kimi K2.6, reads a fashion photograph and names the house, season and year. On 287 fresh runway photos it got all three right 56.4% of the time; Claude Opus 5.5 got 28.6%. It does not win everywhere: Claude Opus 5.5 is ahead on exact product names, 58.7% to 50.7%. The README has the full results and limits.
 
-The September 2026 release contains **459 general shopping records across 31 categories**, including **457 saved answers**. It includes question text, saved answer evidence, and original conversation links.
+[README](https://github.com/kalanpeace/archiveagent) · [Site](https://archiveagent.si/) · [theia-bench](https://huggingface.co/datasets/kalanpeace/theia-bench)
 
-Use it to explore patterns, inspect sources, or build your own charts. These records describe this collection, not universal rankings or proof of sales.
+## Research
 
-[Explore the data](https://caeliai.com/research#benchmarks) · [Dataset on Hugging Face](https://huggingface.co/datasets/kalanpeace/caeliai-shopping-answers) · [Use your AI agent](https://caeliai.com/agents)
+- [Reverse Engineering How Muse Shops](https://caeliai.com/blog/reverse-engineering-how-muse-shops): how Meta's AI agent runs product catalog search. [Evidence](https://github.com/kalanpeace/reverse-engineering-muse).
+- [Shopping Answers](https://huggingface.co/datasets/kalanpeace/caeliai-shopping-answers): 459 shopping questions and 457 captured AI answers across 31 categories.
+- [Local image models on fashion photos](https://huggingface.co/datasets/kalanpeace/local-image-models-bench): four open image models on 86,874 runway photos.
 
-## Follow the research
+## Elsewhere
 
-[Website](https://kalanpeace.com) · [Caeliai](https://caeliai.com) · [LinkedIn](https://linkedin.com/in/kalanpeace) · [Hugging Face](https://huggingface.co/kalanpeace)
-
-For help understanding your store’s technical setup and shopping evidence, [visit Caeliai Advisory](https://caeliai.com/advisory).
+[Website](https://kalanpeace.com/) · [LinkedIn](https://www.linkedin.com/in/kalan-peace-2b2a18198/) · [Hugging Face](https://huggingface.co/kalanpeace) · [X](https://x.com/kalanthegreat) · kalanpeace@gmail.com
