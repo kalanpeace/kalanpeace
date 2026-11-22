@@ -1,6 +1,6 @@
 # Kalan Peace
 
-AI engineer. I worked on the Search & Personalization team at [Daydream](https://daydream.ing/). I'm the founder of [Caeliai](https://caeliai.com/), an AEO agency for ecommerce companies, and I publish AEO and ecommerce research.
+AI engineer. I worked on the Search & Personalization team at [Daydream](https://daydream.ing/). I run [Caeliai](https://caeliai.com/), an independent research project on AI search, shopping, and taste.
 
 ## ArchiveAgent
 
